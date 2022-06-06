@@ -1,0 +1,20 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Package,Part Type,Assembly Location,Cost Each,Cost Ext
+1,1,-,LZX Industries,LZX-C5-PCB,LZX Industries,LZX-C5-PCB,LZX Industries Cadet V Scaler PCB,-,-,Fabricated,-,10.08,10.08
+2,1,-,LZX Industries,LZX-C5-FPN,LZX Industries,LZX-C5-FPN,LZX Industries Cadet V Scaler Frontpanel,-,-,Fabricated,-,3.86,3.86
+3,4,"C3, C4, C7, C8",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,0.1 u,-,Through Hole,PCB Top,0.1,0.4
+4,2,"C2, C6",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10 u,-,Through Hole,PCB Top,0.24,0.48
+5,2,"D1, D2",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,-,-,Through Hole,PCB Top,0.16,0.32
+6,2,"L1, L2",Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-,-,Through Hole,PCB Top,0.13,0.26
+7,4,"R1, R3, R15, R17",KOA Speer,MF1/4DCT52R2002F,Mouser,660-MF1/4DCT52R2002F,Metal Film Resistors - Through Hole 1/4W 20K ohm 1% 20K OHM 1%,20K,-,Through Hole,PCB Top,0.12,0.48
+8,4,"R2, R5, R16, R19",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499R,-,Through Hole,PCB Top,0.12,0.48
+9,8,"R4, R6, R12, R14, R18, R20, R26, R28",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 1/4W 4.99K ohm 1% 4.99K OHM 1%,4.99K,-,Through Hole,PCB Top,0.12,0.96
+10,11,"R7, R8, R9, R10, R11, R13, R25, R27, R29, R30, R31",DNP,DNP,DNP,DNP,DO NOT PLACE,-,-,-,PCB Top,0,0
+11,2,"U1, U2",Texas Instruments,TL072IP,Mouser,595-TL072IP,Operational Amplifiers - Op Amps Dual JFET In Low N,-,DIP8,Through Hole,PCB Top,0.65,1.3
+12,1,U3,DNP,DNP,DNP,DNP,DO NOT PLACE,-,-,-,PCB Top,0,0
+13,1,U4,DNP,DNP,DNP,DNP,DO NOT PLACE,-,-,-,PCB Top,0,0
+14,8,"J1, J2, J3, J4, J5, J6, J7, J8",-,-,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-,-,Through Hole,PCB Top / Frontpanel,0.59,4.72
+15,1,J9,-,-,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-,-,Through Hole,PCB Top,0.25,0.25
+16,1,-,-,-,Erthenvar,Ribbon Cable - 16 to 16 ,16 Pin IDC EuroRack Power Cable,-,-,Accessories,-,1.75,1.75
+17,3,"C5, C9",DNP,DNP,DNP,DNP,DO NOT PLACE,0.1 u,-,Through Hole,PCB Top,0,0
+18,8,-,-,-,Thonk,Knurled Nuts,Knurled Nuts for PJ302M Jacks,-,-,Mechanical,Frontpanel,0.05,0.4
+Totals,64,,,,,,,,,,,,25.74

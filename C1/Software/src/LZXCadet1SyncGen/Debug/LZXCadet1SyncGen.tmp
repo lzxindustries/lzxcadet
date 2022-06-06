@@ -1,0 +1,78 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega88A"</DEVICE>
+ <WORKING_DIR>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m88adef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m88Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\Debug\LZXCadet1SyncGen.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>LZXCadet1SyncGen.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>LZXCadet1SyncGen.map</FILE>
+  <FILE>LZXCadet1SyncGen.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>944</LINE></RESET>
+  <VSYNC><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>333</LINE></VSYNC>
+  <TIM2_OVF><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>244</LINE></TIM2_OVF>
+  <TIM1_OCA><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>354</LINE></TIM1_OCA>
+  <TIM1_OVF><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>383</LINE></TIM1_OVF>
+  <TIM2_OVF_RET><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>295</LINE></TIM2_OVF_RET>
+  <TIM2_OVF_INC_ADD2><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>253</LINE></TIM2_OVF_INC_ADD2>
+  <TIM2_OVF_INC><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>256</LINE></TIM2_OVF_INC>
+  <TIM2_OVF_INC2><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>273</LINE></TIM2_OVF_INC2>
+  <TIM2_OVF_INC3><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>282</LINE></TIM2_OVF_INC3>
+  <TIM2_OVF_INC4><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>289</LINE></TIM2_OVF_INC4>
+  <HSYNC><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>313</LINE></HSYNC>
+  <VSYNC_CLR><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>343</LINE></VSYNC_CLR>
+  <TIM1A_NORM><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>372</LINE></TIM1A_NORM>
+  <TIM1A_IGNORESYNC><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>364</LINE></TIM1A_IGNORESYNC>
+  <TIM1A_RET><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>376</LINE></TIM1A_RET>
+  <TIM1_PAL_NOPRESCALERCLR><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>411</LINE></TIM1_PAL_NOPRESCALERCLR>
+  <TIM1_NEXTLINE><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>435</LINE></TIM1_NEXTLINE>
+  <TIM1_VSYNCCHECK><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>450</LINE></TIM1_VSYNCCHECK>
+  <TIM1_CNT><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>482</LINE></TIM1_CNT>
+  <TIM1_FIELD><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>463</LINE></TIM1_FIELD>
+  <TIM1_PAL><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>476</LINE></TIM1_PAL>
+  <F1preactivevideo><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>571</LINE></F1preactivevideo>
+  <vend><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>533</LINE></vend>
+  <f1poep><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>491</LINE></f1poep>
+  <F1vertsync><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>538</LINE></F1vertsync>
+  <f1prav><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>495</LINE></f1prav>
+  <F1posteq><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>559</LINE></F1posteq>
+  <f1av><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>499</LINE></f1av>
+  <f1poav><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>503</LINE></f1poav>
+  <F1activevideo><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>591</LINE></F1activevideo>
+  <f2prep><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>507</LINE></f2prep>
+  <F1postactivevideo><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>602</LINE></F1postactivevideo>
+  <f2vs><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>511</LINE></f2vs>
+  <F2preeq><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>613</LINE></F2preeq>
+  <f2poep><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>515</LINE></f2poep>
+  <F2vertsync><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>629</LINE></F2vertsync>
+  <fprav><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>519</LINE></fprav>
+  <F2posteq><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>643</LINE></F2posteq>
+  <f2av><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>523</LINE></f2av>
+  <F2preactivevideo><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>656</LINE></F2preactivevideo>
+  <f2poav><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>527</LINE></f2poav>
+  <F2activevideo><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>674</LINE></F2activevideo>
+  <f1prep><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>531</LINE></f1prep>
+  <F2postactivevideo><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>685</LINE></F2postactivevideo>
+  <F1preeq><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>696</LINE></F1preeq>
+  <RPALx50Hz><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>726</LINE></RPALx50Hz>
+  <RNTSC><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>825</LINE></RNTSC>
+  <SetupNTSC><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>990</LINE></SetupNTSC>
+  <SetupGenlockTimer><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>992</LINE></SetupGenlockTimer>
+  <loop1><FILE>G:\Team Drives\Product Designs\Cadet\C1\Software\src\LZXCadet1SyncGen\main.asm</FILE><LINE>1017</LINE></loop1>
+ </LABELS>
+</ASSEMBLER_INFO>
