@@ -3,7 +3,7 @@ LZX Cadet Series EuroRack Video Synthesizer DIY Modules
 
 The designs and release artifacts for these projects are now open source hardware.
 
-* You may fabricate any of the original PCB Gerbers for personal use without restriction.
+* You may fabricate any of the original PCB & Frontpanel Gerbers for personal use without restriction.
 
 * You may not sell these modules, bare PCBs or kits with the original LZX artwork or under the LZX brand name.
 
